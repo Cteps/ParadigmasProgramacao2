@@ -1,0 +1,37 @@
+Problema 1
+O(n)
+
+Problema 2
+O(n)
+
+Problema 3
+O(n)
+
+Problema 4
+O(n^3)
+
+Problema 5
+O(n^3)
+
+Problema 6
+O(n^2)
+
+Problema 7
+O(n^2)
+
+Problema 8
+O(n^2) + O(n^2) = O(n^2)
+
+Problema 9
+O(n^3)
+
+Problema 10
+O(n^2) + O(n) = O(n^2)
+
+Problema 11
+O(n^2) + O(n) = O(n^2)
+
+Problema 12
+O(n^3)
+
+

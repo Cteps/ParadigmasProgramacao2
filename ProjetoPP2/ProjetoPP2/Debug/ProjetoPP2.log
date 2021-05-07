@@ -1,0 +1,31 @@
+﻿  Main.c
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(149): warning C4047: 'function': 'char **' differs in levels of indirection from 'char [100]'
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(149): warning C4024: 'loadTable': different types for formal and actual parameter 2
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(158): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(164): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(185): warning C4047: 'function': 'char **' differs in levels of indirection from 'char [100]'
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(185): warning C4024: 'loadTable': different types for formal and actual parameter 2
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(194): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(200): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(233): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(239): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(287): warning C4047: 'function': 'char **' differs in levels of indirection from 'char [100]'
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(287): warning C4024: 'loadTable': different types for formal and actual parameter 2
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(320): warning C4047: 'function': 'char **' differs in levels of indirection from 'char [100]'
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(320): warning C4024: 'loadTable': different types for formal and actual parameter 2
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(369): warning C4047: 'function': 'char **' differs in levels of indirection from 'char [100]'
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(369): warning C4024: 'loadTable': different types for formal and actual parameter 2
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(375): warning C4047: 'function': 'char **' differs in levels of indirection from 'char [100]'
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(375): warning C4024: 'loadDistance': different types for formal and actual parameter 2
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(416): warning C4047: 'function': 'char **' differs in levels of indirection from 'char [100]'
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(416): warning C4024: 'loadTable': different types for formal and actual parameter 2
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(416): warning C4024: 'loadDistance': different types for formal and actual parameter 2
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(438): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(440): warning C4047: 'function': 'char **' differs in levels of indirection from 'char [100]'
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(440): warning C4024: 'loadTable': different types for formal and actual parameter 2
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(440): warning C4024: 'loadDistance': different types for formal and actual parameter 2
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(481): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(481): warning C4024: 'loadTable': different types for formal and actual parameter 2
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(484): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+c:\users\carlos passos\documents\ipca\projetosfinais\carlos-16924-tiago-16931-leandro-16990\projetopp2\projetopp2\main.c(484): warning C4024: 'loadDistance': different types for formal and actual parameter 2
+  ProjetoPP2.vcxproj -> C:\Users\Carlos Passos\Documents\IPCA\ProjetosFinais\Carlos-16924-Tiago-16931-Leandro-16990\ProjetoPP2\Debug\ProjetoPP2.exe
